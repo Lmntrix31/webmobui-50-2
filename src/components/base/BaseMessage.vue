@@ -12,7 +12,7 @@ defineProps({
 <template>
   <div>
     <p :class="dataRole">
-      <slot></slot>
+      <slot/>
     </p>
   </div>
 </template>

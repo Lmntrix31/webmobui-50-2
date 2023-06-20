@@ -13,6 +13,7 @@ const celcius = computed({
   }
 });
 
+
 </script>
 
 <template>
